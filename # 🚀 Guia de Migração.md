@@ -13,8 +13,6 @@
 
 ## 📢 Comunicado Importante
 
-Prezado(a) colaborador(a),
-
 Realizamos a **migração do nosso servidor de repositórios Git** para uma nova infraestrutura GitLab mais robusta e atualizada. 
 
 **A partir de agora:**
