@@ -436,9 +436,8 @@ Use este checklist para garantir que tudo está configurado:
 
 **Equipe de TI - SpecialDog**
 
-📧 **Email:** ti@specialdog.com.br  
-💬 **Chat Interno:** Canal #ti-suporte  
-📱 **Telefone:** Ramal 100
+📧 **Email:** leonardo.dalcorso@manfrim.com.br  ou joao.takayasu@manfrim.co,.br
+📱 **Telefone:** Ramal 3080
 
 **Horário de Atendimento:** Segunda a Sexta, 8h às 18h
 
@@ -450,9 +449,6 @@ Use este checklist para garantir que tudo está configurado:
 - [GitLab User Docs](https://docs.gitlab.com/ee/user/)
 - [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
-### Treinamentos Internos
-- **Workshop Git & GitLab:** Toda segunda-feira às 15h (sala de treinamento)
-- **Plantão de Dúvidas:** Quartas e sextas, 10h-12h (via Teams)
 
 ---
 
