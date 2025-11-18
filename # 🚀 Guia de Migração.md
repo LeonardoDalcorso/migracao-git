@@ -60,13 +60,13 @@ Antes de começar, configure seu nome e email no Git (caso ainda não tenha feit
 #### No Windows (PowerShell/CMD):
 ```bash
 git config --global user.name "Seu Nome Completo"
-git config --global user.email "seu.email@specialdog.com.br"
+git config --global user.email "seu.email@manfrim.com.br"
 ```
 
 #### No Mac/Linux (Terminal):
 ```bash
 git config --global user.name "Seu Nome Completo"
-git config --global user.email "seu.email@specialdog.com.br"
+git config --global user.email "seu.email@manfrim.com.br"
 ```
 
 ### 2️⃣ Verificar Configurações
@@ -131,7 +131,7 @@ Se ver arquivos `id_rsa` e `id_rsa.pub` (ou `id_ed25519`), você já tem uma cha
 
 **Windows (PowerShell) / Mac / Linux:**
 ```bash
-ssh-keygen -t ed25519 -C "seu.email@specialdog.com.br"
+ssh-keygen -t ed25519 -C "seu.email@manfrim.com.br"
 ```
 
 Pressione `Enter` três vezes (aceita o local padrão e sem senha)
@@ -329,7 +329,7 @@ git branch
 
 1. Acesse: https://gitlab.manfrim.com.br
 2. Clique em **"Forgot your password?"**
-3. Digite seu email `@specialdog.com.br`
+3. Digite seu email `@manfrim.com.br`
 4. Siga as instruções do email
 
 ### 4. Meu `git push` está pedindo senha o tempo todo
